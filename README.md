@@ -13,7 +13,9 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 [/VictoriaOlejarz/Chicago Beaches](https://github.com/VictoriaOlejarz/Chicago-Beaches)
 
 
-## Contact: volejarz@luc.edu
+## Contact: 
+
+volejarz@luc.edu
 
 www.linkedin.com/in/victoria-olejarz-b61b8a283
 
