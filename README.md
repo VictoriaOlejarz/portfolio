@@ -10,7 +10,7 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 ## Projects
 
-[/VictoriaOlejarz/Chicago Beaches](https://github.com/VictoriaOlejarz/Chicago-Beaches)
+[/VictoriaOlejarz/Database Programming](https://github.com/VictoriaOlejarz/Database-Programming)
 
 
 ## Contact: 
