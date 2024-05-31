@@ -5,7 +5,7 @@
 
 
 ## Education
-- B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: May 2025)
+B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: May 2025)
 
 
 ## Projects
