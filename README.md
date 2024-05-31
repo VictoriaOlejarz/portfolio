@@ -1,9 +1,9 @@
 # Data Science student at Loyola University Chicago
 
-####Technical Skills: R, Python, SQL
+#### Technical Skills: R, Python, SQL
 
-##Education
+## Education
 - B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: May 2025)
 
 
-##Projects
+## Projects
