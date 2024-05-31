@@ -10,6 +10,9 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 ## Projects
 
+Database Programming
+- Created a database based on the cosmetic/beauty store Sephora using SQL+ORM to query based on the entities and their relationships with one another.
+
 [/VictoriaOlejarz/Database Programming](https://github.com/VictoriaOlejarz/Database-Programming)
 
 
