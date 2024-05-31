@@ -20,6 +20,6 @@ Database Programming
 
 volejarz@luc.edu
 
-www.linkedin.com/in/victoria-olejarz-b61b8a283
+[www.linkedin.com/in/victoria-olejarz-b61b8a283](https://www.linkedin.com/in/victoria-olejarz-b61b8a283/)
 
  Location: Chicago, IL
