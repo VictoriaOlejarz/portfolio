@@ -15,4 +15,6 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 ## Contact: volejarz@luc.edu
 
+www.linkedin.com/in/victoria-olejarz-b61b8a283
+
  Location: Chicago, IL
