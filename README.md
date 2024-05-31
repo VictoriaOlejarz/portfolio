@@ -7,6 +7,21 @@
 ## Education
 B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: May 2025)
 
+## Work Experience
+
+### HR Data Analytics Intern @ Primient (Schaumburg, IL) (May 2024 - Present)
+- Analyzing Primient employee termination data to set up predictive analytics and take action against high turnover rates
+
+### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - Present)
+- Prepare peers to leverage personal strengths and behaviors in development of sustainable study habits
+- Assess student needs and helped build goal-setting strategies to foster progress
+- Boost student-confidence in approaching mathematics problems by uncovering and addressing root cause issues
+
+### Python Curriculum Developer and Instructor @ GoStem (Chicago, IL) (August 2023 - Present)
+- Work with GoStem staff to introduce and incorporate an Introduction to Python course for high school students interested in computer science
+- Create lesson plans and curriculum 
+- Prepare presentations and surveys for the course
+- Accommodate coursework for students given feedback from classes
 
 ## Projects
 
