@@ -1,4 +1,4 @@
-# Data Science student at Loyola University Chicago
+# Data Science student
 
 
 ### Technical Skills: R, Python, SQL
