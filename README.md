@@ -10,7 +10,7 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 ## Work Experience
 
 ### HR Data Analytics Intern @ Primient (Schaumburg, IL) (May 2024 - Present)
-- Analyzing Primient employee termination data to set up predictive analytics and take action against high turnover rates
+- Analyzing Primient employee termination data to set up predictive analytics and take action against turnover
 
 ### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - Present)
 - Prepare peers to leverage personal strengths and behaviors in development of sustainable study habits
