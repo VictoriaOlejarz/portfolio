@@ -10,4 +10,4 @@
 
 ## Projects
 
-/VictoriaOlejarz/Chicago Beaches
+[/VictoriaOlejarz/Chicago Beaches](https://github.com/VictoriaOlejarz/Chicago-Beaches)
