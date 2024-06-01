@@ -19,6 +19,10 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 [/VictoriaOlejarz/Database Programming](https://github.com/VictoriaOlejarz/Database-Programming)
 
+### Chicago Portal Datasets
+- This project looks into which Chicago beaches have the clearest/murkiest water and whether or not wind speed has an affect on water clarity.
+[/VictoriaOlejarz/Chicago Beaches](https://github.com/VictoriaOlejarz/Chicago-Beaches)
+
 
 ## Work Experience
 
