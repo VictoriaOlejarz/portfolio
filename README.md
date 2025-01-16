@@ -52,7 +52,7 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 ## Contact: 
 
-volejarz@luc.edu
+olejvictoria@gmail.com
 
 [www.linkedin.com/in/victoria-olejarz-b61b8a283](https://www.linkedin.com/in/victoria-olejarz-b61b8a283/)
 
