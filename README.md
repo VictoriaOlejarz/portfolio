@@ -16,7 +16,9 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 
 ### Tennis Simulation
+- This R simulation models tennis scoring, where outcomes depend on points, games, and sets. It explores how point-level performance impacts overall results.
 
+[/VictoriaOlejarz/Tennis Simulation](https://github.com/VictoriaOlejarz/Tennis)
 
 
 ### Database Programming
