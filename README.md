@@ -1,4 +1,4 @@
-# Data Science student
+# Data Science Student
 
 
 ### Technical Skills: R, Python, SQL
