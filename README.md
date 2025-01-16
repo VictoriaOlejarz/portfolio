@@ -10,9 +10,14 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 ## Projects
 
 ### Data Science Consulting Project - Airbeam3 Sensors
-- This project aims to evaluate the reliability of 10 AirBeam3 sensors loaned from the EPA. The sensors measure PM2.5, temperature, and relative humidity, catering to both outdoor and indoor applications. They are battery-powered and require a Bluetooth connection to a cell phone using the AirCasting app. 
+- This project aims to evaluate the reliability of 10 AirBeam3 sensors loaned from the EPA. The sensors measure PM2.5, temperature, and relative humidity, catering to both outdoor and indoor applications. They are battery-powered and require a Bluetooth connection to a cell phone using the AirCasting app.
 
 [/VictoriaOlejarz/Data Science Consulting Project](https://github.com/VictoriaOlejarz/Data-science-consulting)
+
+
+### Tennis Simulation
+
+
 
 ### Database Programming
 - Developed a database based on the cosmetic and beauty store Sephora using SQL and ORM to query from entities and their interrelationships.
