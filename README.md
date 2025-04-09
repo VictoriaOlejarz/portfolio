@@ -34,19 +34,24 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago (Anticipated: Ma
 
 ## Work Experience
 
-### HR Data Analytics Intern @ Primient (Schaumburg, IL) (May 2024 - Present)
-- Analyzing Primient employee termination data to set up predictive analytics and take action against turnover
-
 ### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - Present)
-- Prepare peers to leverage personal strengths and behaviors in development of sustainable study habits
-- Assess student needs and helped build goal-setting strategies to foster progress
-- Boost student-confidence in approaching mathematics problems by uncovering and addressing root cause issues
+- Conducted approximately six tutoring sessions per week, teaching groups ranging from 1 to 6 college
+students to reinforce mathematical concepts and problem-solving skills.
+- Developed tailored study plans and practice exercises to address diverse student needs, improving
+comprehension and performance in math courses.
 
-### Python Curriculum Developer and Instructor @ GoStem (Chicago, IL) (August 2023 - Present)
-- Work with GoStem staff to introduce and incorporate an Introduction to Python course for high school students interested in computer science
-- Create lesson plans and curriculum 
-- Prepare presentations and surveys for the course
-- Accommodate coursework for students given feedback from classes
+### HR Data Analytics Intern @ Primient (Schaumburg, IL) (May 2024 - August 2024)
+- Analyzed employee turnover patterns over three fiscal years by linking multiple datasets with hundreds of
+data points, identifying key retention factors.
+- Collaborated with HR to develop and implement data-driven initiatives, improving employee engagement
+and reducing turnover.
+
+
+### Python Curriculum Developer and Instructor @ GoStem (Chicago, IL) (August 2023 - January 2024)
+- Developed an engaging Python programming curriculum for high school students (class size: 20-30),
+ensuring accessibility for beginners.
+- Collaborated with faculty to integrate and deliver the course, creating lesson plans, assignments, and
+surveys to enhance interactive learning.
 
 
 
