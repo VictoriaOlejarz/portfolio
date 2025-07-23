@@ -34,7 +34,7 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago - May 2025
 
 ## Work Experience
 
-### Business Intelligence Analyst @ Fortune Brands Innovations (Deerfield, IL)
+### Business Intelligence Analyst @ Fortune Brands Innovations (Deerfield, IL) (June 2025 - Present)
 
 ### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - April 2025)
 - Conducted approximately six tutoring sessions per week, teaching groups ranging from 1 to 6 college
