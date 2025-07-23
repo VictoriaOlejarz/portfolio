@@ -1,7 +1,7 @@
 # Data Science Student
 
 
-### Technical Skills: R, Python, SQL
+### Technical Skills: R, Python, SQL, SAS
 
 
 ## Education
@@ -34,7 +34,9 @@ B.S. Data Science, Statistics Minor | Loyola University Chicago - May 2025
 
 ## Work Experience
 
-### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - Present)
+### Business Intelligence Analyst @ Fortune Brands Innovations (Deerfield, IL)
+
+### Mathematics Peer Tutor @ Loyola University Chicago (Chicago, IL) (January 2024 - April 2025)
 - Conducted approximately six tutoring sessions per week, teaching groups ranging from 1 to 6 college
 students to reinforce mathematical concepts and problem-solving skills.
 - Developed tailored study plans and practice exercises to address diverse student needs, improving
